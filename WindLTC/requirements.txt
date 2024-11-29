@@ -1,0 +1,9 @@
+streamlit
+plotly
+chardet
+scikit-learn
+openpyxl
+duckdb
+matplotlib
+seaborn
+scipy
