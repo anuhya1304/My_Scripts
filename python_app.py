@@ -142,7 +142,7 @@ if uploaded_file:
 # import pandas as pd
 
 # # Replace with your API key
-# genai.configure(api_key="AIzaSyC3NPJDTT_5XH3PGwPyS9c9RZL_Gz4sBC8")
+# genai.configure(api_key="0") ## paste ur key
 
 # #model = genai.GenerativeModel("models/gemini-1.5-flash")
 # model = genai.GenerativeModel("gemini-1.5-flash")
@@ -190,3 +190,4 @@ if uploaded_file:
 #         )
 #         st.write(response.text)
     
+
