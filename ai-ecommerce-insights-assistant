@@ -1,5 +1,0 @@
-Overview
-
-This project demonstrates a GenAI-based business analytics assistant that transforms raw sales CSV data into structured KPIs and AI-driven growth recommendations.
-
-The system integrates data processing, SQL aggregation, and LLM-based reasoning to simulate decision intelligence for ecommerce operations.
